@@ -1,0 +1,1 @@
+A CONTRIBUTING file communicates how people should contribute to your project. For more information, see ["Setting guidelines for repository contributors."](https://docs.github.com/en/articles/setting-guidelines-for-repository-contributors)
